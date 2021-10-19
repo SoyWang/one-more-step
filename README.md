@@ -240,11 +240,7 @@
 
 Fabric联盟链相关详细开发资源收集
 
-## DONATE 赞助
 
-BTC：1JnC15WwDVcC3QbQRUY6ChqRLucLpTGaJN
-
-ETH：0x81847890eecdecb20ee145824eaa1aec079a712c
 
 ## License
 
